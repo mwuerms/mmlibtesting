@@ -1,0 +1,3 @@
+[submodule "mmlib"]
+	path = mmlib
+	url = git@github.com:mwuerms/mmlib.git
